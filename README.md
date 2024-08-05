@@ -10,6 +10,6 @@ This package allows you to set up a basic authentication system for your Node.js
 
 ### Prerequisites
 
-- **Node.js:** Ensure you have Node.js version 14 or later installed.
+- **Node.js:** Ensure you have Node.js version 18 or later installed.
 - **MongoDB:** You need an active MongoDB instance (local or remote).
 
